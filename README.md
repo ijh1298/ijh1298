@@ -6,7 +6,7 @@
 <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=JetpackCompose&logoColor=white"/></a>
 
 ### Velog
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ijh1298?theme=dark&posts=3)
+[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ijh1298?theme=dark&posts=3)](https://velog.io/@ijh1298/posts)
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijh1298&show_icons=true&theme=github_dark&locale=kr&line_height=21)
